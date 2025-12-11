@@ -8,8 +8,6 @@
 
 ## Tecnologies i use and learn
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micaiasdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats))
-
 <div style="display: inline_block"><br>
 <img align="center" alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img align="center" alt="JAVAFX" src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white">
