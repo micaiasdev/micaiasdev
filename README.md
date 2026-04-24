@@ -10,10 +10,9 @@
 
 <div style="display: inline_block"><br>
 <img align="center" alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-<img align="center" alt="JAVAFX" src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white">
-<img align="center" alt="MAVEN" src="https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white">
+<img align="center" alt="SPRINGBOOT" src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=Spring&logoColor=white&style=for-the-badge">
 <img align="center" alt="PYTHON" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img align="center" alt="PYTHON" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF">
+<img align="center" alt="PYTHON" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge">
 <img align="center" alt="PYTHON" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
 </div>
 
