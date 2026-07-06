@@ -15,5 +15,3 @@
 <img align="center" alt="PYTHON" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge">
 <img align="center" alt="PYTHON" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
 </div>
-
-### I'm a developing developer. And my mission is to make people's lives easier by solving problems 🎯
